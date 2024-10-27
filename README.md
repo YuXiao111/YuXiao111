@@ -24,11 +24,11 @@ Here are some ideas to get you started:
 - 😄 Read more about my CSDN: https://blog.csdn.net/qq_40670171
 
 
-You are my ![Visitor Count](https://blog.csdn.net/qq_40670171) visitor,Thank You!:kissing_heart::kissing_heart:
+You are my ![Visitor Count](https://profile-counter.glitch.me/all-smile/count.svg) visitor,Thank You!:kissing_heart::kissing_heart:
 
 ### My Skill Set
 
 ![Christmas's GitHub stats](https://github-readme-stats.vercel.app/api?username=YuXiao111&show_icons=true&theme=tokyonight)
-![Visitor Count](https://profile-counter.glitch.me/all-smile/count.svg)
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=all-smile&layout=compact&theme=tokyonight)
 
