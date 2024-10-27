@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on something cool.
 - 🌱 I’m currently learning Everything I like.
-- 💬 Ask me about anything related to Java/Python.
+- 💬 Ask me about anything related to C#/WPF.
 - 📫 How to reach me: YuXiao_0111@163.com
 - 😄 Read more about my CSDN: https://blog.csdn.net/qq_40670171
 
