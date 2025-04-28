@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 - 😄 Read more about my CSDN: https://blog.csdn.net/qq_40670171
 
 
-You are my ![Visitor Count](https://profile-counter.glitch.me/all-smile/count.svg) visitor,Thank You!:kissing_heart::kissing_heart:
+You are my ![Visitor Count](https://profile-counter.glitch.me/all-smile/count.svg) visitor,Thank You!
 
 ### My Skill Set
 
