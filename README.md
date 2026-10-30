@@ -1,34 +1,34 @@
-## Hi there 👋
+### Hi there 👋 I'm YuXiao.
 
-<!--
-**YuXiao111/YuXiao111** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I'm currently working on something cool.
+- 🌱 I'm currently learning everything I like.
+- 💬 Ask me about anything related to C# / WPF.
+- 📫 Reach me: YuXiao_0111@163.com
+- 📝 Read my CSDN blog: https://blog.csdn.net/qq_40670171
 
-Here are some ideas to get you started:
+![Visitor Count](https://komarev.com/ghpvc/?username=YuXiao111&color=blueviolet&style=flat-square&label=Visitors)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
 
-### Hi there 👋,I'm YuXiao.
+### 🛠 My Skill Set
 
-- 🔭 I’m currently working on something cool.
-- 🌱 I’m currently learning Everything I like.
-- 💬 Ask me about anything related to C#/WPF.
-- 📫 How to reach me: YuXiao_0111@163.com
-- 😄 Read more about my CSDN: https://blog.csdn.net/qq_40670171
+![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
+![WPF](https://img.shields.io/badge/WPF-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
+---
 
-You are my ![Visitor Count](https://profile-counter.glitch.me/all-smile/count.svg) visitor,Thank You!
+### 📊 GitHub Stats
 
-### My Skill Set
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=YuXiao111&show_icons=true&theme=tokyonight&hide_border=true">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=YuXiao111&show_icons=true&theme=default&hide_border=true">
+  <img alt="YuXiao's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=YuXiao111&show_icons=true&theme=default&hide_border=true">
+</picture>
 
-![Christmas's GitHub stats](https://github-readme-stats.vercel.app/api?username=YuXiao111&show_icons=true&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=all-smile&layout=compact&theme=tokyonight)
-
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=YuXiao111&layout=compact&theme=tokyonight&hide_border=true">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=YuXiao111&layout=compact&theme=default&hide_border=true">
+  <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YuXiao111&layout=compact&theme=default&hide_border=true">
+</picture>
