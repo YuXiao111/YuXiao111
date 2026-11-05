@@ -6,6 +6,7 @@
 
 [![CSDN Blog](https://img.shields.io/badge/CSDN-Blog-red?style=flat-square&logo=blogger&logoColor=white)](https://blog.csdn.net/qq_40670171)
 [![Email](https://img.shields.io/badge/Email-YuXiao__0111%40163.com-blue?style=flat-square&logo=gmail&logoColor=white)](mailto:YuXiao_0111@163.com)
+[![GitHub](https://img.shields.io/badge/GitHub-YuXiao111-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/YuXiao111)
 ![Visitor Count](https://komarev.com/ghpvc/?username=YuXiao111&color=blueviolet&style=flat-square&label=Visitors)
 
 </div>
@@ -54,8 +55,24 @@
 
 ---
 
+### 🔥 Streak Stats
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=YuXiao111&theme=tokyonight&hide_border=true">
+  <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=YuXiao111&theme=default&hide_border=true">
+  <img alt="GitHub Streak" src="https://streak-stats.demolab.com?user=YuXiao111&theme=default&hide_border=true">
+</picture>
+
+</div>
+
+---
+
 <div align="center">
 
 *Thanks for visiting! ⭐ Feel free to explore my repositories.*
+
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer)
 
 </div>
